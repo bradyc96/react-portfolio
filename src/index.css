@@ -1,0 +1,121 @@
+.App {
+    text-align: left;
+  }
+  
+  body {
+    background-color: rgb(227, 237, 234);
+  
+  }
+  
+  .cardBorder {
+    background-color: rgba(95, 158, 160, 0.313);
+    padding: 20px;
+    margin:30px;
+    height:280px;
+    overflow:hidden;
+    border-radius: 10px;  
+  }
+  .cardBorder H1 {
+    margin-top: 1.5rem;
+    color: rgb(0, 71, 73);    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .cardBorder a, .cardBorder a:visited {
+    color:rgb(68, 143, 146);
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .contactCard {
+    height: 300px;
+  }
+  .aboutCard {
+    height: 450px;
+    margin-top: 5rem;
+  }
+  .portfolioList {
+    margin-bottom: 120px;
+  }
+  
+  .portfolioCard {
+    padding: 10px;
+    padding-bottom: 5rem;
+  }
+  
+  .portfolioCard div {
+    padding: 10px;
+  }
+  .portfolioCardLeftColumn {
+    width: 25%;
+    float: left;
+  }
+  .portfolioCardLeftColumn img {
+    width: 80%;
+    padding:10%;
+  }
+  .portfolioCardRightColumn {
+    width: 70%;
+    float: right;
+  }
+  .portfolioCardRightColumn  div{
+    width: 80%;
+    padding:5%;
+  }
+  
+
+  
+
+  header {
+    background-color: rgb(6, 97, 73);
+    height: 50px;
+    color:beige;
+    vertical-align: bottom;
+    padding:5px;
+  }
+
+  header a {
+    padding-left: 2rem;
+    text-decoration: none;
+    font-size:x-large ;
+  }
+
+    
+  
+  
+  .footer {
+    text-align: center;
+    background-color:cadetblue;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  
+  
+  .footer a,a:visited {
+    text-decoration: none;
+    color: white;
+    padding-left : 50px;
+
+  }
+
+  .titleHeading h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    font-size: 300%;
+    color: rgb(0, 71, 73);
+    font-weight: bold;
+  }
+  #portfolioTitleCard {
+    /* background-color: cadetblue; */
+    /* width: 40%; */
+    height: 70px;
+  }
+
+  image:hover image {
+    transform: scale(1.05);  
+    opacity: 0.5;
+  }
