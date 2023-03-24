@@ -75,6 +75,7 @@
   header a {
     padding-left: 2rem;
     text-decoration: none;
+    color: white;
     font-size:x-large ;
   }
 
@@ -97,8 +98,8 @@
     text-decoration: none;
     color: white;
     padding-left : 50px;
-
   }
+
 
   .titleHeading h2 {
     display: flex;
