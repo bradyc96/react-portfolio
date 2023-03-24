@@ -14,7 +14,7 @@ export default function About() {
       
       <div className="portfolioCardRightColumn">
       
-        <div>
+        <div class="aboutText">
         
           <h1>Brady Collier</h1>
 
@@ -24,8 +24,12 @@ export default function About() {
               <p>
               I'm a graduate of the University of Washington with a bachelor's degree in economics. Education is important to me, so
               I continued my education and I have recently graduated from the full-stack coding bootcamp at the same university, gaining valuable
-              skills in front end development, back end development, and database management. Prior to gaining my technical skills, I worked at Amazon in recruiting, worked in the 
-              wine industry for a decade in sales and events, and have worked with nonprofits helping out with boards and volunteering.
+              skills in front end development, back end development, and database management. 
+              </p>
+              <p>
+              I've worked at Amazon in recruiting, worked in the wine industry for 10+ years in 
+              sales and events, and have worked with nonprofits helping out with boards and volunteering.
+              I can be found spending my time outdoors, practicing coding, and playing piano.
               </p>
               </div>
       </div>

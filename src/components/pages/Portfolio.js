@@ -30,7 +30,7 @@ className="card1">
 <PortfolioCard
 title="Friends in Check"
 image={friendsInCheck}
-text="riends in Check is not another chess game. Users are able to play games with a friend with a single sign up. Host a room and have a friend join in. Friends are able to talk and chat, all while playing a good ol' game of chess."
+text="Friends in Check is not another chess game. Users are able to play games with a friend with a single sign up. Host a room and have a friend join in. Friends are able to talk and chat, all while playing a good ol' game of chess."
 repourl="https://github.com/wabarringer/project-3-FRONT"
 demourl="https://friends-in-check.netlify.app/home"
 className="card2">

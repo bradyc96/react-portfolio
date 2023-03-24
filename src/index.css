@@ -4,16 +4,20 @@
   
   body {
     background-color: rgb(227, 237, 234);
-  
   }
-  
+
+  nav a{
+    padding-top: 30px;
+  }
+
   .cardBorder {
     background-color: rgba(95, 158, 160, 0.313);
-    padding: 20px;
-    margin:30px;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
     height:280px;
     overflow:hidden;
     border-radius: 10px;  
+    margin-top: 2rem;
   }
   .cardBorder H1 {
     margin-top: 1.5rem;
@@ -27,7 +31,15 @@
   }
   .contactCard {
     height: 300px;
+    margin-right: 3.5rem;
+    margin-left: 3.5rem;
+    margin-top: 5rem;
   }
+
+  .resumeCard {
+    margin-top: 5rem;
+  }
+
   .aboutCard {
     height: 450px;
     margin-top: 5rem;
@@ -62,8 +74,6 @@
   }
   
 
-  
-
   header {
     background-color: rgb(6, 97, 73);
     height: 50px;
@@ -79,8 +89,10 @@
     font-size:x-large ;
   }
 
-    
-  
+  .aboutText p {
+    font-size: 125%;
+    padding-top: 0.5rem;
+  }
   
   .footer {
     text-align: center;
